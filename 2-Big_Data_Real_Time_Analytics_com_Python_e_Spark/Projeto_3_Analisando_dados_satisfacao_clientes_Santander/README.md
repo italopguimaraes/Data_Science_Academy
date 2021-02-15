@@ -15,4 +15,4 @@ Este projeto é parte do curso **Big Data Real-Time Analytics com Python e Spark
 
 ## Instruções
 
-Descompacte o arquivo data.rar e coloque a pasta data no mesmo diretório contendo os arquivos deste projeto, e inicialize os notebooks
+Descompacte os arquivos data.rar e metastore_db.rar e coloque as pastas data e metastore_db no mesmo diretório contendo os arquivos deste projeto, e inicialize os notebooks
