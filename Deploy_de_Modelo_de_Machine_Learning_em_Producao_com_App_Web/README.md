@@ -1,18 +1,11 @@
-# Deep RL Quadcopter Controller
+# Deploy de Modelo de Machine Learning em Producao com App Web
 
-*Teach a Quadcopter How to Fly!*
+*reconhecendo digitos manuscritos usando deep learning*
 
-The **quadricopter** or **quadrirotor helicopter** is becoming an increasingly popular type of aircraft for both personal and professional use. Its maneuverability is useful for various applications, from short-range deliveries to cinematography, from search and rescue acrobatics.
+O objetivo desse projeto é desenvolver uma aplicação web para reconhecer digitos manuscritos usando redes neurais convolucionais, ao executar a aplicação no navegador o usuário desenha do digito usando o mouse na área indicada pelo retângulo e após clicar em prever, será exibido a previsão do digito.
+O modelo foi pré-treinado e será carregado apenas no momento de realizar a previsão, a interface foi desenvolvida usando HTML, CSS e JavaScript.
 
-Most quadricopters have 4 motors to provide boost, although some other models with 6 or 8 motors are also informally included in this category. Multiple thrust points with a center of gravity in the center increase stability and enable a variety of flight behaviors.
-
-But there is a price for all this-the high complexity of controlling such an aircraft makes it almost impossible to control the momentum of each engine manually. Thus, most commercial quadricopters try to simplify flight control by accepting a single magnitude of boost and pitch / roll / yaw controls, making their control much more intuitive and fun.
-
-The next step in this evolution is to enable quadricopters to assume desired control behaviors, such as takeoff and landing, autonomously. You could design these controls using a classical approach (say, implementing PID controllers). Or it is possible to use reinforcement learning to create agents who can learn these behaviors on their own.
-
-In this project, an agent was developed to pilot a quadcopter and then train it using a reinforcement learning algorithm!
-
-This project is part of Udacity's deep learning nanodegree program, if you are interested in checking out the original project, see this [repository](https://github.com/udacity/RL-Quadcopter-2.git).
+Esse projeto é parte da Data Science Academy
 
 ## Software Dependencies
 
