@@ -24,7 +24,7 @@ atributos não preditivos (parâmetros).
 O objetivo é construir um modelo preditivo que possa prever o
 consumo de energia com base nos dados de sensores IoT coletados.
 
-Esse projeto é parte da Data Science Academy
+Esse projeto é parte da Formação Cientista de Dados da Data Science Academy
 
 ## Dependências de Software
 
