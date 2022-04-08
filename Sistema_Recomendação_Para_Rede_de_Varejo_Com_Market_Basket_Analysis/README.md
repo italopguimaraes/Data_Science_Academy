@@ -29,12 +29,12 @@ Esse projeto é parte da Formação Cientista de Dados da Data Science Academy
 
 ## Dependências de Software
 
-Tenha certeza que `jupyter-notebook`,`pandas`,`numpy`,`seaborn`,`matplotlib`,`sklearn`,`tensorflow`,`xgboost`,`keras`,`graphviz` e `scipy` estão instalados:
+Tenha certeza que `jupyter-notebook`,`pandas`,`numpy`,`seaborn`,`matplotlib` e `fpgrowth_py` estão instalados:
 
-`conda install pandas numpy seaborn matplotlib sklearn tensorflow xgboost keras graphviz scipy`
+`conda install pandas numpy seaborn matplotlib fpgrowth_py`
 
 ## Instruções do Projeto
 
-1. Clone o repositório ou faça o download e navegue no diretório contendo o arquivo Sistema_Recomendação_Para_Rede_de_Varejo_Com_Market_Basket_Analysis.rar e descompacte-o no mesmo diretótio, usando anaconda ou prompt de comando.
+1. Clone o repositório ou faça o download e navegue no diretório contendo o arquivo Sistema_Recomendação_Para_Rede_de_Varejo_Com_Market_Basket_Analysis, crie um diretório chamado dados baixe os arquivos: aisles.csv, departments.csv, order_products__prior.csv, order_products__train.csv, orders.csv, products.csv e sample_submission.csv na url: https://www.kaggle.com/c/instacart-market-basket-analysis/data, e coloque neste diretório dados;
 
 2. Agora basta executar o notebook SupplyChain-Analytics-Mini-Projeto10.ipynb no jupyter notebook.
